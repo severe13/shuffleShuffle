@@ -1,0 +1,42 @@
+body {
+  background-color: black;
+  background-image: url("http://www.clker.com/cliparts/5/L/J/h/g/r/film-tape-test-2-hi.png");
+  background-size: 50%;
+  color:white;
+  font-family: Helvetica;
+  text-align: center;
+  align-content: center;
+  
+} 
+
+div.img {
+  margin: 0px;
+  padding: 5px;
+  height: auto;
+  width: auto;
+  text-align: below;
+  display: inline-block;
+   
+}
+
+div.img img {
+    display: inline-block;
+    margin: 5px;
+    border: 1px solid #ffffff;
+}
+
+
+div.desc {
+    text-align: center;
+    font-weight: normal;
+    width: 100px;
+    margin: 0px;
+}
+ 
+
+
+
+    
+       
+    
+   

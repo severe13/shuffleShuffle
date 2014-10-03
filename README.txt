@@ -1,0 +1,1 @@
+This is a the shuffle project for Foundations 1. This shuffles the top ten highest grossing films of all time. User shuffles until their favorite is number one. Assignment took about a week to complete. Main hurdles was assigning images to shuffle. 
